@@ -2,6 +2,6 @@
 
 # better-agents
 
-Proposition d'architecture pour améliorer des agents et des workflows à partir de leurs sessions d'utilisation.
+Proposition d'architecture pour améliorer des agents et des workflows à partir de sessions GitHub Copilot CLI. Le dépôt central des agents et skills est désigné par « agent-repo » dans le document.
 
 Voir la [proposition d'architecture révisée](boucle-amelioration-agents.md).
