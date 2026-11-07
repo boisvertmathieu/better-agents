@@ -2,4 +2,6 @@
 
 # better-agents
 
-Created in [T3 Code](https://t3.codes).
+Proposition d'architecture pour améliorer des agents et des workflows à partir de sessions GitHub Copilot CLI. Le dépôt central des agents et skills est désigné par « agent-repo » dans le document.
+
+Voir la [proposition d'architecture révisée](boucle-amelioration-agents.md).
