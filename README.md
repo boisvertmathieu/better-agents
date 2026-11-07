@@ -2,4 +2,6 @@
 
 # better-agents
 
-Created in [T3 Code](https://t3.codes).
+Proposition d'architecture pour améliorer des agents et des workflows à partir de leurs sessions d'utilisation.
+
+Voir la [proposition d'architecture révisée](boucle-amelioration-agents.md).
